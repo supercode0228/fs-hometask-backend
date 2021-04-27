@@ -15,10 +15,10 @@ For the backend API, I use Laravel MVC framework with MySQL.
 ## API documentation
 
 ### API to get all patients
-- [URL]: /patients
-- [Method]: GET
+- URL: /patients
+- Method: GET
 
 ### API to get the appointments by patient name
-- [URL]: /appointments/{patient_name}
-- [Method]: GET
+- URL: /appointments/{patient_name}
+- Method: GET
 
